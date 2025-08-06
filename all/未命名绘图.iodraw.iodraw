@@ -182,9 +182,6 @@
             <mxPoint x="190" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-1" target="meHFWN-T1bQnNrHd_J4t-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

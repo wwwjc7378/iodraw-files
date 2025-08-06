@@ -135,8 +135,8 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-50" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;③ Physics-Constrained Student Network&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-70" y="970" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-53" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Knowledge Extraction &amp;amp; Distillation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="710" width="130" height="30" as="geometry" />
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-53" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Physics-Constrained Optimization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="930" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

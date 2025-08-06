@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="meHFWN-T1bQnNrHd_J4t-1" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;WRF&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Simulation&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="190" width="120" height="50" as="geometry" />
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-2" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Ground Observation&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Stations&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-3" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2m Temperature&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-4" target="meHFWN-T1bQnNrHd_J4t-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-4" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Arial&quot;&gt;2m Specific Humidity&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="40" as="geometry" />
@@ -21,12 +24,6 @@
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-7" value="&lt;b&gt;&lt;font face=&quot;Arial&quot;&gt;Train: 70% Validation: 15% Test: 15%&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="610" as="sourcePoint" />
-            <mxPoint x="220" y="560" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

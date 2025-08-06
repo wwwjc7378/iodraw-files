@@ -76,11 +76,14 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-29" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Physics Constraint Layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="970" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-30" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Soft Labels Generation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-30" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Residual Correction Decoder&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1005" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-31" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Physics State Decoder&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="935" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-32" value="&lt;b&gt;&lt;font face=&quot;Arial&quot;&gt;Train: 70% Validation: 15% Test: 15%&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

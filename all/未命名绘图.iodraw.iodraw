@@ -7,19 +7,19 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-1" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;WRF&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Simulation&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-2" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Ground Observation&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Stations&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-2" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Ground Observation&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Stations&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-3" target="meHFWN-T1bQnNrHd_J4t-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-3" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2m Temperature&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-3" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2m Temperature&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-20" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-4" target="meHFWN-T1bQnNrHd_J4t-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-4" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Arial&quot;&gt;2m Specific Humidity&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-4" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Arial&quot;&gt;2m Specific Humidity&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-5">
@@ -27,19 +27,19 @@
             <mxPoint x="180" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-5" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Arial&quot;&gt;&lt;b&gt;10m Wind Speed&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-5" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Arial&quot;&gt;&lt;b&gt;10m Wind Speed&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-7" value="&lt;b&gt;&lt;font face=&quot;Arial&quot;&gt;Train: 70% Validation: 15% Test: 15%&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-7" value="&lt;b&gt;&lt;font face=&quot;Arial&quot;&gt;Train: 70% Validation: 15% Test: 15%&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-10" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Knowledge Fusion&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="720" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-12" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;s40_gRjvu66jLrE8Ak71&quot;&gt;CNN1D&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;s40_gRjvu66jLrE8Ak71&quot;&gt;Multi-Layer Perceptron&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;s40_gRjvu66jLrE8Ak71&quot;&gt;Residual Network&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;s40_gRjvu66jLrE8Ak71&quot;&gt;Feature Group Transformer&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-12" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;s40_gRjvu66jLrE8Ak71&quot;&gt;CNN1D&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;s40_gRjvu66jLrE8Ak71&quot;&gt;Multi-Layer Perceptron&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;s40_gRjvu66jLrE8Ak71&quot;&gt;Residual Network&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;s40_gRjvu66jLrE8Ak71&quot;&gt;Feature Group Transformer&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="210" y="490" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-13" value="&lt;div&gt;&lt;span style=&quot;font-family: JSf8nweJTiGjTAqD3vtW; background-color: initial;&quot;&gt;Linear Regression&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;JSf8nweJTiGjTAqD3vtW&quot;&gt;Ridge, Lasso, Elastic Net&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;JSf8nweJTiGjTAqD3vtW&quot;&gt;Random Forest, Extra Trees&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;JSf8nweJTiGjTAqD3vtW&quot;&gt;Gradient Boosting,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;JSf8nweJTiGjTAqD3vtW&quot;&gt;XGBoost, SVR&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-13" value="&lt;div&gt;&lt;span style=&quot;font-family: JSf8nweJTiGjTAqD3vtW; background-color: initial;&quot;&gt;Linear Regression&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;JSf8nweJTiGjTAqD3vtW&quot;&gt;Ridge, Lasso, Elastic Net&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;JSf8nweJTiGjTAqD3vtW&quot;&gt;Random Forest, Extra Trees&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;JSf8nweJTiGjTAqD3vtW&quot;&gt;Gradient Boosting,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;JSf8nweJTiGjTAqD3vtW&quot;&gt;XGBoost, SVR&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-40" y="490" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-14" value="&lt;b style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;Traditional ML Models(9)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">

@@ -28,8 +28,8 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-10" value="&lt;b&gt;&lt;font face=&quot;Arial&quot;&gt;Feature Engineering&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Arial&quot;&gt;&amp;amp; Data Split&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-11" value="&lt;span style=&quot;font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Traditional ML Models&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="450" width="120" height="50" as="geometry" />
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-11" value="&lt;span style=&quot;font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;Traditional ML Models&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;div style=&quot;&quot;&gt;Linear Regression&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Ridge, Lasso, Elastic Net&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Random Forest, Extra Trees&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Gradient Boosting, XGBoost, SVR&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="450" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-12" value="Deep Learning Models" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Arial;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-50" y="710" width="120" height="60" as="geometry" />

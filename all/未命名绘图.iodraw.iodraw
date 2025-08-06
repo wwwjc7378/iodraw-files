@@ -164,9 +164,9 @@
             <mxPoint x="190" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-74" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-74" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="620" as="sourcePoint" />
+            <mxPoint x="170" y="260" as="sourcePoint" />
             <mxPoint x="190" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>

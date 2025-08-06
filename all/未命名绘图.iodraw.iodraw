@@ -19,6 +19,9 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="-70" y="140" width="510" height="550" as="geometry" />
         </mxCell>
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-1" target="meHFWN-T1bQnNrHd_J4t-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-1" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;WRF&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Simulation&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -113,22 +116,22 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-29" target="meHFWN-T1bQnNrHd_J4t-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-29" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Physics Constraint Layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-29" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Physics Constraint Layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1035" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-30" target="meHFWN-T1bQnNrHd_J4t-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-30" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Residual Correction Decoder&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-30" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Residual Correction Decoder&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="1070" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-31" target="meHFWN-T1bQnNrHd_J4t-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-31" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Physics State Decoder&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-31" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Physics State Decoder&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="1000" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-33" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Corrected Temperature&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Humidity&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Wind Speed&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-33" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Corrected Temperature&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Humidity&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Wind Speed&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="1025" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-39" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Decoder Fusion &amp;amp; Joint Training&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

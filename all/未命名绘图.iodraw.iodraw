@@ -156,7 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-63" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Weight Allocation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="610" width="130" height="30" as="geometry" />
+          <mxGeometry x="120" y="580" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

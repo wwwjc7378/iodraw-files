@@ -111,8 +111,8 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-60" y="140" width="480" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-44" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Knowledge Fusion&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="150" width="120" height="30" as="geometry" />
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-44" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;① Teacher Model Training&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="150" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

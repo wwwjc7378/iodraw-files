@@ -108,6 +108,9 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-39" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Decoder Fusion &amp;amp; Joint Training&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="1040" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

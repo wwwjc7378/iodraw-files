@@ -37,8 +37,8 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-14" value="&lt;b style=&quot;font-family: Arial;&quot;&gt;Traditional ML Models(9)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="460" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-16" value="&lt;span style=&quot;font-family: Arial; font-weight: 700;&quot;&gt;Deep Learning Models&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="580" width="140" height="30" as="geometry" />
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-16" value="&lt;span style=&quot;font-family: Arial; font-weight: 700;&quot;&gt;Deep Learning Models(4)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="580" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

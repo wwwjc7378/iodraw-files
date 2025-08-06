@@ -41,7 +41,7 @@
           <mxGeometry x="235" y="460" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-17" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Soft Labels Generation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="775" width="120" height="50" as="geometry" />
+          <mxGeometry x="290" y="785" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-18" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Predictive Knowledge&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="720" width="120" height="40" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-21" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Teacher Model Ensemble&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-22" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Soft Labels Generation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="785" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

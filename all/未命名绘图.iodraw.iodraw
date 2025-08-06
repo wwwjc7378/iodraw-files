@@ -82,8 +82,8 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-31" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Physics State Decoder&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="935" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-33" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Student Network&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="795" width="120" height="50" as="geometry" />
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-33" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Corrected Temperature&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Humidity&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Wind Speed&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="970" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

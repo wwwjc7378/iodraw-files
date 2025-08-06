@@ -11,12 +11,12 @@
           <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-3" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; background-color: rgb(227, 242, 253);&quot;&gt;2m Temperature&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-4" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; background-color: rgb(227, 242, 253);&quot;&gt;2m Specific Humidity&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-5" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px; background-color: rgb(227, 242, 253);&quot;&gt;10m Wind Speed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

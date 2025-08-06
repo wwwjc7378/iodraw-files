@@ -35,7 +35,7 @@
           <mxGeometry x="-50" y="450" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-14" value="&lt;b style=&quot;font-family: Arial;&quot;&gt;Traditional ML Models&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="420" width="140" height="30" as="geometry" />
+          <mxGeometry x="-20" y="540" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

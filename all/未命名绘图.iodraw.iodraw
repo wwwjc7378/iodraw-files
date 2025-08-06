@@ -69,7 +69,7 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-20" value="&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Relational Knowledge&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="850" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-21" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Teacher Model Ensemble&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-21" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Teacher Model Ensemble&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="130" y="630" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="meHFWN-T1bQnNrHd_J4t-22" target="meHFWN-T1bQnNrHd_J4t-17">
@@ -112,7 +112,7 @@
           <mxGeometry x="-60" y="140" width="480" height="470" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-44" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;① Teacher Model Training&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="150" width="180" height="30" as="geometry" />
+          <mxGeometry x="-60" y="140" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

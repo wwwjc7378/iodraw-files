@@ -76,6 +76,12 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-29" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Soft Labels Generation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="970" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-30" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Soft Labels Generation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="805" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-31" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Soft Labels Generation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="910" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

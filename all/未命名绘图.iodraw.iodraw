@@ -43,14 +43,14 @@
         <mxCell id="meHFWN-T1bQnNrHd_J4t-17" value="&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;Teacher Model Ensemble&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="620" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="meHFWN-T1bQnNrHd_J4t-18" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2m Temperature&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="meHFWN-T1bQnNrHd_J4t-18" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Predictive Knowledge&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-19" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Arial&quot;&gt;2m Specific Humidity&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="meHFWN-T1bQnNrHd_J4t-20" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Arial&quot;&gt;&lt;b&gt;10m Wind Speed&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="-40" y="840" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
